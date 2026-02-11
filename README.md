@@ -1,2 +1,2 @@
 # JCEL-Holdings-Inc.
-Personla Project
+Personal Project
